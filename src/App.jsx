@@ -1,4 +1,3 @@
-'use client'
 import { useReducer } from "react"
 import DigitButton from './components/DigitButton'
 import OperationButton from "./components/OperationButton"
